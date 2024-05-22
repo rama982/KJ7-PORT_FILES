@@ -1,0 +1,1 @@
+This device uses NFC_ST, but most other Transsion devices use NFC_NCI (NXP), causing it to bootloop. Remove it and add stock NFC stack.
