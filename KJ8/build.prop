@@ -40,5 +40,6 @@ ro.tran_not_disable_band_support=0
 ro.os_video_call_enhancer=1
 ro.tran_ultrasound_elliptic_support=1
 ro.tran_elevator_mode.support=1
-
-
+persist.product.lucid.disabled=0
+persist.transsion.lucid.optimization=1
+ro.tran.brightnessbar.synchronization.support=0
