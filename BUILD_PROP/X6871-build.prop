@@ -1,0 +1,42 @@
+# PORT
+ro.product.product.tran.device.name.default=TECNO SPARK 20 Pro+
+#ro.product.product.device=TECNO-KJ7
+#ro.product.product.model=TECNO KJ7
+#ro.product.product.name=KJ7-OP
+#ro.product.build.fingerprint=TECNO/KJ7-OP/TECNO-KJ7:14/UP1A.231005.007/240521V2124:user/release-keys
+ro.product.tran.version.release=KJ7-H895MNO-U-BASE-240521V2124-PORT
+ro.build.display.id=KJ7-H895MNO-U-BASE-240521V2124-PORT
+#ro.product.system_ext.device=TECNO-KJ7
+#ro.product.system_ext.model=TECNO KJ7
+#ro.product.system_ext.name=KJ7-OP
+#ro.system_ext.build.fingerprint=TECNO/KJ7-OP/TECNO-KJ7:14/UP1A.231005.007/240521V2124:user/release-keys
+# PORT FEATURE
+ro.side_fingerprint_support=0
+ro.optical_fingerprint_support=1
+ro.transsion.physical.backlight.optimization=0
+ro.vendor.transsion.backlight_hal.optimization=0
+ro.transsion.backlight.level=255
+ro.tran_high_brightness_mode.support=1
+ro.vendor.transsion.hbm_mode_hal.support=1
+ro.tran_smart_5g_3nd_support=0
+ro.tran_5g_switch_support=0
+persist.product.lucid.disabled=0
+persist.transsion.lucid.optimization=1
+ro.transsion.enable_gms_secondary_dex2oat=true
+ro.os_game_bypass_charging_support=0
+ro.tran.effectengine.dynamicblur.support=0
+ro.surface_flinger.supports_background_blur=0
+os.charging_animation_type=4
+ro.tran_multi_level_charge_count=0
+ro.dar.thermal_core.support=1
+# PORT EXT
+ro.transsion_remote_anim_support=1
+ro.transsion_disable_launcher_unlock_support=1
+ro.transsion_enable_lite_launcher_unlock_support=1
+ro.avatarpipe.whitelist=1
+sys.avatarpipe.enabled=1
+ro.avatarpipe.tmoji_aod=1
+ro.tran_roaming_mode_support=1
+ro.tran_not_disable_band_support=0
+ro.sys.tran.assist_support=true
+ro.os_video_call_enhancer=1
